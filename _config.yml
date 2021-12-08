@@ -94,13 +94,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Donguk Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hi, I am Donguk Kim. I am a Software Engineer at Samsung Electronics."
+  location         : "Seoul, South Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "kdu1113@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
