@@ -20,7 +20,7 @@ title                    : "Donguk Kim blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donguk Kim"
-description              : "Hi, I am Donguk Kim. I am a Software Engineer at Samsung Electronics."
+description              : "Hi, I am Donguk Kim.\I am a Software Engineer\at Samsung Electronics."
 url                      : "https://dkim1113.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
