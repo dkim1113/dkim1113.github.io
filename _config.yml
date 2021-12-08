@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Donguk Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am Donguk Kim.\I am a Software Engineer\at Samsung Electronics."
+  bio              : "Hi, I am Donguk Kim. I am a Software Engineer at Samsung Electronics."
   location         : "Seoul, South Korea"
   email            : "kdu1113@gmail.com"
   links:
